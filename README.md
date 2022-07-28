@@ -118,7 +118,7 @@ For this models, there are 301 non-attrition for the actual attrition and 67 act
 ![](images/Easy_ensemble.png)
 
 ## Summary
-TBD
+According to 6 different kind of machine learning models and variability on the prediction that are significate to explore which option is the best way to help match with employee attrition for anaylzing the data that we have. From 6 six different model that we figure out Balanced Random Forest Classifiter is better for us to analysiz the employee attrition because the accuracy score has 68.52% The Balanced Random Forest Classifiter algorithm to determine this algorithm results in the best performance compared to the other sampling algorithms above.
 
 ## Google Slides Link
 [Click here](https://docs.google.com/presentation/d/1tK68lEqBwnXk-U9_hVBMxHCFWIiPoHWBg3Ww6Z6_EX8/edit#slide=id.g13cb71ee761_0_0) to review our presentation slides
@@ -127,4 +127,4 @@ TBD
 [Click here](https://public.tableau.com/views/EmployeeAttrition_16582829561380/ByGender?:language=en-US&:display_count=n&:origin=viz_share_link) to see the interactive dashboard in Tableau
 
 ## Recommendations for Employers
-TBD
+The factors affect attrition are base age, satisfaction and metal well-being, educational factors, job relate factores, daily communication and monthly income etc. The employers can main focus on how to improve the salary rate and give a promotion to keep the emploee stay in the company.
